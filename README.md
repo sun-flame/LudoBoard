@@ -1,9 +1,8 @@
-# LudoBoard
-This is a simple Ludo Dice Roll App built with React. The app simulates the dice roll feature of the Ludo game. It allows users to roll a dice and view the result, which can be used in playing a Ludo game.  
-Features:
-Roll a dice to get a random number between 1 and 6 
-Visual display of the dice result 
-Technologies Used:
-React
-JavaScript 
-HTML/CSS
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
